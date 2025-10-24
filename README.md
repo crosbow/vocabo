@@ -1,28 +1,28 @@
 # Let's Install **Vocabo**
 
-Vocabo is a web text **selected** definition provider chrome extension which helps you to know any word meaning/definition.
+Vocabo is a Chrome extension that provides definitions for selected text, helping you quickly understand the meaning of any word.
 
-**Note:** the extension is in testing, so install the project here if you're a developer and follow the instruction below.
+**Note:** The extension is currently in testing. If you're a developer, install the project locally by following the instructions below.
 
-## Installation guide
+## Installation Guide
 
 ```bash
 git clone git@github.com:crosbow/vocabo.git
 ```
-You are successfully installed **Vocabo** 👏
 
-Lest's set up as chrome extantion
+You have successfully cloned **Vocabo** 👏
 
-1. Go chrome and paste this URL:
+Now, let's set it up as a Chrome extension:
 
-```bash
-chrome://extensions
-```
+1. Open Chrome and paste this URL in the address bar:
+   ```bash
+   chrome://extensions
+   ```
 
-2. Enable developer mode(if already not disabled) from the right side of the page.
+2. Enable **Developer mode** (if it's not already enabled) from the top-right corner of the page.
 
-3. Click **load unpached** button
+3. Click the **Load unpacked** button.
 
-4. Select **dist** folder that you previously got.
+4. Select the **dist** folder that you got from the cloned project.
 
-Hurray 🎊 You have successfully added **Vocabo** on your chrome.
+Hurray 🎊 You have successfully added **Vocabo** to your Chrome browser!
